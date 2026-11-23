@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2026.01-A
+# Nome: Caio de Godoy e Vasconcelos Galvão
+# Email: cgvg@cesar.school
